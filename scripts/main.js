@@ -29,8 +29,6 @@ async function login(event){
 }
 
 
-
-
 // criar login
 
 function criarlogin(event) {
@@ -66,3 +64,4 @@ function criarlogin(event) {
         console.log(erro);
     });
 }
+
